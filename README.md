@@ -1,17 +1,16 @@
-# 👋 Hi, I'm [Your Name]
+# <div align="center"> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&height=100&lines=👋+Hi,+I'm+[Your+Name];Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" /> </div>
 
 <div align="center">
-  
-**Full-Stack Developer | Problem Solver | Tech Enthusiast**
+
+**빠르고, 깔끔하고, 효율적인 코드를 만드는 개발자**
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimphysicsman&count_bg=%2379C0FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@gmail.com)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/yourprofile)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white&link=https://yourportfolio.com)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
----
 
 ## 🎯 About Me
 
