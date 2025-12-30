@@ -49,7 +49,7 @@
 - 데이터베이스 인덱싱으로 쿼리 성능 개선 방법
 - 프론트엔드-백엔드 협업 최적화 전략
 
-**🔗 [Repository 보기](https://github.com/yourname/project1) | [Live Demo](https://project1-demo.com)**
+**[프로젝트 상세 설명](https://github.com/minseo3280-coder/Flask_project)**
 
 ---
 
@@ -80,7 +80,7 @@
 - API 성능 최적화 및 모니터링
 - 팀 협업 시 명확한 인터페이스 정의의 중요성
 
-**🔗 [Repository 보기](https://github.com/yourname/project2) | [API Docs](https://api-docs.project2.com)**
+** [Repository 보기](https://github.com/yourname/project2)**
 
 ---
 
@@ -108,7 +108,7 @@
 - 오픈소스 기여의 즐거움
 - 커뮤니티와의 협업 방법
 
-**🔗 [Repository 보기](https://github.com/yourname/project3) | [Live Demo](https://project3.com)**
+**🔗 [Repository 보기](https://github.com/yourname/project3) **
 
 ---
 
