@@ -1,14 +1,7 @@
 <div align="center">
 
-# 📌 Portfolio
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=600&height=60&lines=Full-Stack+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-
----
-
-[![Gmail](https://img.shields.io/badge/Gmail-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](https://yourportfolio.com)
-
+# 📌 신민서 Portfolio
+신민서 | 개발자
 </div>
 
 
