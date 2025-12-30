@@ -2,6 +2,8 @@
 
 # 📌 신민서 Portfolio
 신민서 | 개발자
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&styleLinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&styl`
+
 </div>
 
 
