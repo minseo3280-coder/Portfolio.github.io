@@ -2,8 +2,6 @@
 
 # 📌 포트폴리오
 신민서 | 개발자
-(https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&styleLinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&styl`
-
 </div>
 
 
@@ -23,11 +21,11 @@
 
 ## 📌 Featured Projects
 
-### 1️⃣ [전국 휴게소 맛집 및 여정 정보 큐레이션 시스템 - Flask 기반 웹 서비스 프로젝트]
+### 1.🚗 전국 휴게소 맛집 및 여정 정보 큐레이션 시스템
+Flask 기반 웹 서비스 프로젝트
 
 | 항목 | 내용 |
 |------|------|
-| **개발 기간** | 2025.12. |
 | **역할** | 기술 아키텍처(PL), 기술 방향성 설정, 시스템 아키텍처 설계, 핵심 백엔드 로직 개발 리드 |
 | **팀 구성** | 5명 (Frontend 2, Backend 1) |
 | **기술 스택** | React, Node.js, MongoDB, AWS |
