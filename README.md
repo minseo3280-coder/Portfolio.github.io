@@ -1,22 +1,42 @@
-# <div align="center">
+<div align="center">
 
-## 👋 Hi, I'm [Your Name]
+# 👋 Hey, I'm [Your Name]
 
-### 🚀 Full-Stack Developer | 🎯 Problem Solver | 💡 Tech Enthusiast
+<img width="200" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&height=40&lines=Full-Stack+Developer;Web+Innovator;Code+Enthusiast" />
 
-<a href="mailto:your.email@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://yourportfolio.com">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+</div>
 
 ---
 
+<div align="center">
+
+<table>
+  <tr>
+    <td width="25%">
+      <a href="mailto:your.email@gmail.com">
+        <img src="https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@gmail.com"/>
+      </a>
+    </td>
+    <td width="25%">
+      <a href="https://linkedin.com/in/yourprofile">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%">
+      <a href="https://yourportfolio.com">
+        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td width="25%">
+      <a href="https://yourblog.com">
+        <img src="https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
+
 
 
 ## 🎯 About Me
