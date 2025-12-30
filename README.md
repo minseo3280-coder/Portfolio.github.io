@@ -1,41 +1,20 @@
 <div align="center">
 
-# 👋 Hey, I'm [Your Name]
+# 👋 Welcome to my GitHub Profile!
 
-<img width="200" src="https://readme-typing-svg.herokuapp.com?font=IBM+Plex+Sans&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=300&height=40&lines=Full-Stack+Developer;Web+Innovator;Code+Enthusiast" />
+## I'm [Your Name] 
+### Full-Stack Developer | Problem Solver | Tech Enthusiast
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
----
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://yourportfolio.com)
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="25%">
-      <a href="mailto:your.email@gmail.com">
-        <img src="https://img.shields.io/badge/-Email-FF6B6B?style=flat-square&logo=gmail&logoColor=white&link=mailto:your.email@gmail.com"/>
-      </a>
-    </td>
-    <td width="25%">
-      <a href="https://linkedin.com/in/yourprofile">
-        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-      </a>
-    </td>
-    <td width="25%">
-      <a href="https://yourportfolio.com">
-        <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=github&logoColor=white"/>
-      </a>
-    </td>
-    <td width="25%">
-      <a href="https://yourblog.com">
-        <img src="https://img.shields.io/badge/-Blog-FFA500?style=flat-square&logo=rss&logoColor=white"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
+
 
 
 
