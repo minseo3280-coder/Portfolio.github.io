@@ -1,13 +1,10 @@
 <div align="center">
 
-# 📌 신민서 Portfolio
+# 📌 포트폴리오
 신민서 | 개발자
-[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&styleLinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&styl`
+(https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white&styleLinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&styl`
 
 </div>
-
-
-
 
 
 
@@ -26,13 +23,13 @@
 
 ## 📌 Featured Projects
 
-### 1️⃣ [프로젝트명 - 간단한 설명]
+### 1️⃣ [전국 휴게소 맛집 및 여정 정보 큐레이션 시스템 - Flask 기반 웹 서비스 프로젝트]
 
 | 항목 | 내용 |
 |------|------|
-| **개발 기간** | 2024.01 ~ 2024.03 (3개월) |
-| **역할** | 풀스택 개발 (FE 60%, BE 40%) |
-| **팀 구성** | 3명 (Frontend 2, Backend 1) |
+| **개발 기간** | 2025.12. |
+| **역할** | 기술 아키텍처(PL), 기술 방향성 설정, 시스템 아키텍처 설계, 핵심 백엔드 로직 개발 리드 |
+| **팀 구성** | 5명 (Frontend 2, Backend 1) |
 | **기술 스택** | React, Node.js, MongoDB, AWS |
 | **주요 기능** | 실시간 알림, 소셜 로그인, 데이터 시각화 |
 
@@ -55,6 +52,7 @@
 **🔗 [Repository 보기](https://github.com/yourname/project1) | [Live Demo](https://project1-demo.com)**
 
 ---
+
 
 ### 2️⃣ [프로젝트명 - 간단한 설명]
 
@@ -188,7 +186,6 @@
 ## 🎖 Certifications & Awards
 
 - 🥇 **2024 해커톤** - 최우수상 (스타트업 트랙)
-- 🏆 **기술 블로그** - 월 5,000+ 방문자 (개발 학습 공유)
 - 📜 **AWS Certified** - Solutions Architect Associate (2024)
 
 ---
