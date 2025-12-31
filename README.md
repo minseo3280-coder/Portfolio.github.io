@@ -1,25 +1,21 @@
 <div align="center">
 
-# 📌 포트폴리오
+# 👨‍💻 신민서 포트폴리오
 신민서 | 개발자
 </div>
 
 
+### 🎯 핵심 역량
 
-## 🎯 About Me
-
-안녕하세요! 저는 **사용자 중심의 웹 애플리케이션**을 개발하는 **풀스택 개발자**입니다. 
-복잡한 문제를 **체계적으로 분석**하고, **깔끔한 코드**로 **효율적인 솔루션**을 만드는 것을 좋아합니다.
-
-- 🚀 **Frontend**: React, Vue.js, TypeScript, Tailwind CSS
-- 🔧 **Backend**: Node.js, Express, Python, FastAPI
-- 💾 **Database**: PostgreSQL, MongoDB, Redis
-- 📊 **DevOps**: Docker, AWS, GitHub Actions
-- 🎨 **Design**: Figma, UI/UX 설계
+- **머신러닝**: 분류, 회귀, 앙상블 모델 (RandomForest, XGBoost, LogisticRegression)
+- **데이터 분석**: EDA, 전처리, 특성 공학 (Feature Engineering)
+- **웹 서비스**: Streamlit 기반 ML 애플리케이션 배포
+- **프로그래밍**: Python, SQL, Git/GitHub
+- **통계학**: 가설 검정, 불균형 데이터 처리, F1-Score 최적화
 
 ---
 
-## 📌 Featured Projects
+## 📂 주요 프로젝트
 
 ### 1.🚗 전국 휴게소 맛집 및 여정 정보 큐레이션 시스템
 Flask 기반 웹 서비스 프로젝트
@@ -196,9 +192,8 @@ Flask 기반 웹 서비스 프로젝트
   - 레거시 코드 리팩토링으로 유지보수성 50% 개선
   - 팀 리뷰 문화 정착 및 코드 품질 개선 주도
 
-### 🎓 Education
-- **Computer Science** | 대학교 | 2019 ~ 2023
-  - 관심 분야: 웹 애플리케이션 아키텍처, 클라우드 기술
+### 🎓 학력
+- **경상국립대학교** | 정보통계학과 | 졸업
 
 ---
 
@@ -215,8 +210,7 @@ Flask 기반 웹 서비스 프로젝트
 
 <div align="center">
 
-📧 **Email**: minseo3280@gmail.com
-💼 **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourprofile)  
+📧 **Email**: minseo3280@gmail.com  
 🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
 
 ---
