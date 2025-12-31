@@ -210,7 +210,6 @@ Flask 기반 웹 서비스 프로젝트
 <div align="center">
 
 📧 **Email**: minseo3280@gmail.com  
-🌐 **Portfolio**: [yourportfolio.com](https://yourportfolio.com)  
 
 ---
 
