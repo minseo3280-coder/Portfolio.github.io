@@ -93,7 +93,7 @@ Flask 기반 웹 서비스 프로젝트
 
 
 
-**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/BigData_project](https://github.com/minseo3280-coder/BigData_project/blob/main/README.md))** 
+**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/BigData_project/blob/main/README.md)** 
 
 
 
@@ -204,7 +204,6 @@ Flask 기반 웹 서비스 프로젝트
 
 ---
 
-## 🤝 Let's Connect!
 
 협업 기회, 코드 리뷰, 기술 논의 등 언제든 환영합니다!
 
