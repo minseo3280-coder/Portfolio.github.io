@@ -25,7 +25,7 @@ Flask 기반 웹 개발 프로젝트
 | **역할** | 기술 아키텍처(PL), 기술 방향성 설정, 시스템 아키텍처 설계, 핵심 백엔드 로직 개발 리드 |
 | **팀 구성** | 5명 (Frontend 3명, Backend 2명) |
 |**개발 기간**| 2025년 12월 (약 2주)
-| **기술 스택** | Backend: Flask, Python, MariaDB / Frontend: Vanilla JS, HTML5, CSS3(Tailwind) / API: Kakao Maps, Kakao Local, Google Gemini / DevOps: Gunicorn, Cloudtype, GitHub |
+| **기술 스택** | Backend: Flask, Python, MariaDB / Frontend: Vanilla JS, HTML5, CSS3(Tailwind)                                                             / API: Kakao Maps, Kakao Local, Google Gemini / DevOps: Gunicorn, Cloudtype, GitHub |
 | **주요 기능** | 경로 검색(Kakao Mobility), 휴게소 자동 탐색, AI 기반 메뉴 추천, 편의시설 필터링, 실시간 자동완성 검색 |
 
 
