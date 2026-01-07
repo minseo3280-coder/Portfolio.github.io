@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👨‍💻 신민서 포트폴리오
-신민서 | 개발자
+신민서 | 기술경력서
 </div>
 
 
@@ -173,29 +173,35 @@ Flask 기반 웹 개발 프로젝트
   </tr>
 </table>
 
----
-
-
 
 ---
 
 ## 📚 Experience & Education
 
 ### 👨‍💻 Work Experience
-- **Software Engineer** | 회사명 | 2023.06 ~ Present
-  - 사용자 20만+ 규모의 웹 서비스 개발 및 운영
-  - 레거시 코드 리팩토링으로 유지보수성 50% 개선
-  - 팀 리뷰 문화 정착 및 코드 품질 개선 주도
+
+  | 힐링소프트 | 2024.09 ~ 2025.05
+  - 현대글로비스 SAP Cashflow Dashboard 서버이관 및 Report 개발
+  - 관련기술: SAP, ABAP
+
+
+
+  | 젠컨설팅 | 2022.08 ~ 2024.08
+  - SAP FI 유지보수 및 ABAP개발 (무신사, 버거킹, 지마켓 등 10개 고객사)
+  - 관련기술: SAP, ABAP
+
+
 
 ### 🎓 학력
+
 - **경상국립대학교** | 정보통계학과 | 졸업
 
 ---
 
 ## 🎖 Certifications & Awards
 
-- 🥇 **2024 해커톤** - 최우수상 (스타트업 트랙)
-- 📜 **AWS Certified** - Solutions Architect Associate (2024)
+- 🥇 **2021 데이터 청년 캠퍼스 Big Challenge 최우수상** - 국립공원공단 (2024)
+- 📜 **빅리더 AI 아카데미 우수 프로젝트상** - 경남대학교 총장 (2024)
 
 ---
 
