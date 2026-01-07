@@ -175,15 +175,7 @@ Flask 기반 웹 개발 프로젝트
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  [![GitHub stats](https://github-readme-stats.vercel.app/api?username=kimphysicsman&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/kimphysicsman)
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimphysicsman&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/kimphysicsman)
-
-</div>
 
 ---
 
