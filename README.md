@@ -44,8 +44,8 @@ Flask 기반 웹 개발 프로젝트
 - Vanilla JS와 Kakao Maps SDK 통합
 - REST API 설계 및 에러 처리<<br>
 
-
-
+<br>
+<br>
 **📚 배운 점**<br>
  ✅ RESTful API 설계의 중요성<br>
  ✅ 데이터베이스 인덱싱으로 쿼리 성능 개선 방법<br>
