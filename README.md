@@ -64,9 +64,9 @@ Flask 기반 웹 개발 프로젝트
 - Kakao Mobility API 좌표 변환 및 경로 계산
 - MariaDB 쿼리 최적화 (컬럼 선택, 인덱싱)
 - Vanilla JS와 Kakao Maps SDK 통합
-- REST API 설계 및 에러 처리<<br>
+- REST API 설계 및 에러 처리<br>
 
-<br>
+
 <br>
 **📚 배운 점**<br>
  ✅ RESTful API 설계의 중요성<br>
