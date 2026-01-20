@@ -5,13 +5,28 @@
 </div>
 
 
+### 🙂 간략소개
+1. 
+
+
+
+
 ### 🎯 핵심 역량
 
-- **머신러닝**: 분류, 회귀, 앙상블 모델 (RandomForest, XGBoost, LogisticRegression)
-- **데이터 분석**: EDA, 전처리, 특성 공학 (Feature Engineering)
-- **웹 서비스**: Streamlit 기반 ML 애플리케이션 배포
-- **프로그래밍**: Python, SQL, Git/GitHub
-- **통계학**: 가설 검정, 불균형 데이터 처리, F1-Score 최적화
+**End-to-End 시스템 구축 및 운영 경험** <br>
+- AI 모델 개발부터 웹 서비스 구현, 오류 처리·성능 개선까지 전 과정을 수행하며, 구축 이후의 안정적 운영까지 고려한 시스템 관리 경험 보유
+
+**운영 관점의 AI·데이터 활용 역량** <br>
+- 머신러닝·딥러닝·LLM 프로젝트에서 예외 상황, 데이터 누락, 입력 오류 등을 고려해 모델과 시스템을 설계하며 실사용 환경 중심의 개발 수행
+
+**문제 정의 기반 프로세스 개선 능력** <br>
+- 사용자 불편과 업무 흐름을 분석해 기술 적용 방향을 정의하고, 자동화·구조 개선을 통해 반복 업무 및 운영 리스크를 감소시킨 경험
+
+**기업 시스템(SAP) 운영·유지보수 경험**
+- 다수 고객사의 SAP ERP(FI) 시스템을 운영하며 현업 요청 대응, 오류 분석, 기능 개선을 수행해 하나의 시스템을 지속적으로 관리한 실무 경험
+
+**안정성과 신뢰를 중시하는 시스템 관리 태도**
+- 빠른 기능 추가보다 시스템의 일관성·정합성·안정성을 우선하며, 작은 개선을 누적해 장기적으로 신뢰 가능한 운영 환경을 구축하는 역량
 
 ---
 
@@ -187,50 +202,6 @@ Flask 기반 웹 개발 프로젝트
 
 **[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/LLM_Project)** 
 
----
-
-## 🛠 Tech Stack
-
-<table>
-  <tr>
-    <th>분류</th>
-    <th>기술</th>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" />
-      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Database</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/MongoDB-13AA52?style=flat-square&logo=mongodb&logoColor=white" />
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>DevOps</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-      <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-    </td>
-  </tr>
-</table>
 
 
 ---
