@@ -273,7 +273,7 @@ Flask 기반 웹 개발 프로젝트
 
 <div align="center">
 
-📧 **Email**: minseo3280@gmail.com  
+📧 **Email**: minseo3280@naver.com
 
 ---
 
