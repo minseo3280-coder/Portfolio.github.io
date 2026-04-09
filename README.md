@@ -78,7 +78,7 @@ AI 모델 개발부터 웹 서비스 구현, 오류 처리·성능 개선까지 
  ✅ **33회 반복 개선(v1→v33)**: 디자인 프로토타입 → 사용자 피드백 → 즉시 반영의 애자일 개발 사이클 체득<br>
 
 
-**[👉 프로젝트 상세 보기](https://github.com/yourusername/shinsegaela_website)**
+**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/shinsegaelaw-website.git)**
 
 
 
@@ -124,7 +124,7 @@ AI 모델 개발부터 웹 서비스 구현, 오류 처리·성능 개선까지 
  ✅ **경쟁사 분석 기반 기획**: 로탑(LawTop) 등 기존 법률 SaaS 기능 비교 분석 후 AI/클라우드로 차별화 전략 수립<br>
 
 
-**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/SLA_system)**
+**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/SLA_system.git)**
 
 
 
