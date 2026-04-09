@@ -82,6 +82,52 @@ AI 모델 개발부터 웹 서비스 구현, 오류 처리·성능 개선까지 
 
 
 
+### 2. ⚖️ SLA (Smart Legal Assistant) — AI 기반 법률 사건관리 SaaS
+"보관을 넘어 분석으로, 기록을 넘어 지능으로 — 송무 직원의 업무 흐름을 완벽히 이해한 법률 사무 자동화 플랫폼"
+
+| 항목 | 내용 |
+|------|------|
+| **개발 기간** | 2026.02 ~ 2026.03 (약 4주) |
+| **역할** | 풀스택 (기획, UI/UX 설계, 프론트엔드, 백엔드 API, DB 설계, AI 연동, AWS 배포) |
+| **규모** | 프론트엔드 49개 페이지, 71개 컴포넌트, 백엔드 127개 API, DB 20개 테이블 |
+| **기술 스택** | Frontend: React 19, Vite 7, Tailwind CSS 4, FullCalendar / Backend: Express.js 5, MySQL (AWS RDS), JWT 인증 / AI: Anthropic Claude Haiku 4.5 / Storage: AWS S3 / DevOps: AWS EC2, PM2, Nginx, GitHub |
+| **주요 기능** | 사건 관리, 기일 캘린더, AI 문서 분석·요약, 비용 결재, 법률 계산기 10종, 고객 CRM, 내부 채팅, 의뢰인 포털 |
+
+
+
+**🎯 핵심 성과**
+- 🤖 **AI 문서 분석 시스템**: Anthropic Claude 연동으로 법률 문서 자동 분류·요약·태깅 구현 (드래그앤드롭 업로드 → AI 분석 → 카테고리 분류)
+- 📊 **150+ REST API 설계**: 사건/기일/문서/비용/고객/결재/알림 등 법률 사무 전 영역을 커버하는 백엔드 아키텍처
+- 🏗️ **20테이블 관계형 DB 설계**: 사건-의뢰인 N:N 관계, 7단계 비용 결재 워크플로우, 활동 감사 로그 등 실무 요구사항 반영
+- 🔒 **엔터프라이즈급 보안**: JWT 인증 + 토큰 버저닝 + Rate Limiting + Helmet CSP + AES-256-GCM 암호화
+- ☁️ **AWS 풀스택 배포**: EC2(서버) + RDS(DB) + S3(파일) + PM2 + Nginx + Let's Encrypt SSL
+
+
+
+**💡 주요 기술 경험**
+- React 19 + Vite 7 SPA 아키텍처: Context API 기반 상태 관리 (Auth/Preferences/Office), 49개 페이지 라우팅
+- Express.js REST API 설계: 127개 엔드포인트, 미들웨어 체인 (helmet → compression → CORS → rate-limit → auth)
+- MySQL 스키마 설계: 20개 테이블, FULLTEXT 인덱스, ENUM 타입, FK CASCADE, 마이그레이션 v1→v2
+- AI/LLM 연동: Anthropic Claude API로 문서 분석·초안 작성·판례 검색·사건 요약·결과 예측 5개 AI 기능 구현
+- AWS S3 Presigned URL: 클라이언트 직접 업로드 방식으로 서버 부하 제거
+- 법률 도메인 계산기: 인지대·송달료·손해배상·소멸시효 등 10종 법률 계산 로직 구현
+- PWA 지원: Service Worker + Web Push Notification + 오프라인 페이지
+- 7단계 비용 결재 워크플로우: 신청→검토→승인→집행→정산→완료→반려 상태 머신 설계<br>
+
+
+
+**📚 배운 점** <br>
+ ✅ **도메인 이해의 중요성**: 송무 직원 설문조사 → 실제 업무 흐름 분석 → 기능 우선순위 도출 (사용자 중심 기획)<br>
+ ✅ **대규모 SPA 아키텍처**: 49개 페이지 규모에서 Context API vs Redux 선택, 컴포넌트 분리 전략 체득<br>
+ ✅ **보안 설계 실무**: JWT 토큰 버저닝, Rate Limiting, AES-256-GCM 암호화 등 프로덕션 보안 패턴 학습<br>
+ ✅ **AI 기능의 실용적 적용**: LLM을 단순 챗봇이 아닌 문서 분석·자동 분류·초안 작성 등 실무 태스크에 통합하는 경험<br>
+ ✅ **경쟁사 분석 기반 기획**: 로탑(LawTop) 등 기존 법률 SaaS 기능 비교 분석 후 AI/클라우드로 차별화 전략 수립<br>
+
+
+**[👉 프로젝트 상세 보기](https://github.com/minseo3280-coder/SLA_system)**
+
+
+
 
 ### 3. 🚗 전국 휴게소 맛집 및 여정 정보 큐레이션 시스템
 Flask 기반 웹 개발 프로젝트
